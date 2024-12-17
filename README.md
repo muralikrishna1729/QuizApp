@@ -57,30 +57,6 @@ Follow the steps below to set up and run the quiz app locally.
   npm -v
 
 
-### **Project Structure 📂**
-
-quiz-app/
-│
-├── public/                       # Public assets
-│
-├── src/                          # Source code
-│   ├── components/               # React components
-│   │   └── Quiz.js               # Main Quiz component
-│   │
-│   ├── Helper/                   # Helper files
-│   │   ├── GameStateContext.js   # Context API for state management
-│   │   └── Questions/            # Question files
-│   │       ├── ProgrammingQuestions.js
-│   │       ├── MathQuestions.js
-│   │       └── ScienceQuestions.js
-│   │
-│   ├── App.js                    # Main app component
-│   ├── index.js                  # React entry point
-│   └── App.css                   # Global styling
-│
-└── package.json                  # Project configuration
-
-
 ## **How to Use 🧑‍💻**
 Run the app.
 Choose a category (Programming, Math, or Science).
@@ -153,6 +129,29 @@ npm start
 Open the app in your browser at:
 http://localhost:3000
 
+### **Project Structure 📂**
+
+  ```bash
+quiz-app/
+│
+├── public/                       # Public assets
+│
+├── src/                          # Source code
+│   ├── components/               # React components
+│   │   └── Quiz.js               # Main Quiz component
+│   │
+│   ├── Helper/                   # Helper files
+│   │   ├── GameStateContext.js   # Context API for state management
+│   │   └── Questions/            # Question files
+│   │       ├── ProgrammingQuestions.js
+│   │       ├── MathQuestions.js
+│   │       └── ScienceQuestions.js
+│   │
+│   ├── App.js                    # Main app component
+│   ├── index.js                  # React entry point
+│   └── App.css                   # Global styling
+│
+└── package.json                  # Project configuration
 
 
 
