@@ -57,30 +57,7 @@ Follow the steps below to set up and run the quiz app locally.
   npm -v
 
 
-### **Installation Steps**
-Clone the Repository:
-
-```bash
-git clone https://github.com/muralikrishna1729/quiz-app.git
-
-cd quiz-app
-Install Dependencies:
-
-```bash
-npm install
-Start the App:
-
-```bash
-npm start
-
-
-Open the app in your browser at:
-http://localhost:3000
-
-
-
 ### **Project Structure 📂**
-
 
 quiz-app/
 │
@@ -155,7 +132,27 @@ Copy code
 - Update the **live demo link** if you have deployed the app.  
 - Add your **contact information** (email, GitHub link, etc.).  
 
-Copy and paste this into your **README.md** file in your GitHub repository, and you’re good to go! 🚀
+
+### **Installation Steps**
+Clone the Repository:
+
+```bash
+git clone https://github.com/muralikrishna1729/quiz-app.git
+
+cd quiz-app
+Install Dependencies:
+
+```bash
+npm install
+Start the App:
+
+```bash
+npm start
+
+
+Open the app in your browser at:
+http://localhost:3000
+
 
 
 
