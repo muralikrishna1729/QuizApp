@@ -114,20 +114,24 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/muralikrishna1729/quiz-app.git
+```
 
 cd quiz-app
 Install Dependencies:
 
 ```bash
 npm install
+```
 Start the App:
 
 ```bash
 npm start
-
+```
 
 Open the app in your browser at:
+```bash
 http://localhost:3000
+```
 
 ### **Project Structure 📂**
 
@@ -152,7 +156,7 @@ quiz-app/
 │   └── App.css                   # Global styling
 │
 └── package.json                  # Project configuration
-
+```
 
 
 
